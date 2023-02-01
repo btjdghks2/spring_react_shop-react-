@@ -2,6 +2,8 @@ import React from 'react'
 
 export const AdminMain = () => {
   return (
-    <div>AdminMain</div>
+    <div>
+      <div>adminMain</div>
+    </div>
   )
 }

@@ -1,0 +1,9 @@
+.Mainlogo{
+    width: 800px;
+    height: 150px;
+    background-color:#BA55D3;
+    font-size: 30px;
+    margin: auto;
+    line-height : 100px;
+    border-radius: 20px;
+};

@@ -1,0 +1,65 @@
+.menubar{
+width: 800px;
+height: 100px;
+display: inline-block;
+border-radius: 20px;
+}
+.winter{
+    width: 133px;
+    height: 80px;
+    background-color:#DDA0DD;
+border:none;
+
+}
+.winter:hover {
+    background-color:#E6E6FA;
+}
+.fall{
+    border:none;
+    background-color:#DDA0DD;
+    height: 80px;
+    width: 133px;
+}
+.fall:hover{
+    background-color:#E6E6FA;
+}
+.long_sleeve{
+    width: 133px;
+    height: 80px;
+    border:none;
+    background-color:#DDA0DD;
+
+}
+.long_sleeve:hover{
+    background-color:#E6E6FA;
+}
+.tee{
+    width: 133px;
+    height: 80px;
+    border:none;
+    background-color:#DDA0DD;
+
+}
+.tee:hover{
+    background-color:#E6E6FA;
+}
+.pants{
+    width: 133px;
+    height: 80px;
+    border:none;
+    background-color:#DDA0DD;
+
+}
+.pants:hover{
+    background-color:#E6E6FA;
+}
+.shortpants{
+    width: 133px;
+    height: 80px;
+    border:none;
+    background-color:#DDA0DD;
+
+}
+.shortpants:hover{
+    background-color:#E6E6FA;
+}
